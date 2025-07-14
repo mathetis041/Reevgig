@@ -24,7 +24,7 @@ Reevgig is a web platform designed to bridge the gap between innovative hardware
 ## Tech Stack
 
 - **Frontend:** React, TypeScript  
-- **Styling:** CSS Modules  
+- **Styling:** CSS Modules, React-storybook
 - **State Management:** React Hooks  
 
 ---
